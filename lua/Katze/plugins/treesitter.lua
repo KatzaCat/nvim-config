@@ -11,6 +11,7 @@ return {
 
     require('nvim-treesitter').install({
       -- Documentation
+      'markdown',
       'vimdoc',
 
       -- Languages
